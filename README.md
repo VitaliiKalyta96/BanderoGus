@@ -2,7 +2,7 @@
 
 This is a project about the information of the fighting goose and the game.
 
-![goose_on_page.png](image_game/goose_on_page.png)
+![goose_on_page .png](image_game/goose_on_page%20.png)
 
 ![game.png](image_game/game.png)
 
