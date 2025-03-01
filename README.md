@@ -1,24 +1,23 @@
-Project BanderoGus
+## Project BanderoGus
 
-Brief description
-Webpage(site) and game about special combat goose with Ukraine.
+This is a project about the information of the fighting goose and the game.
 
-Run it locally this project.
-2 methods: 
+![goose_on_page.png](image_game/goose_on_page.png)
 
-1. Create a Python virtual environment to isolate the projects:
-python3 -m venv venv
+![game.png](image_game/game.png)
 
-Or terminal next command:
-pip install --upgrade virtualenv
-and once again  -  python3 -m venv venv
-Then, activate it: source venv/bin/activate
+Run it locally this project in your IDE.
 
-2.
-Or simply run file main.py
+1. Clone the repository:
 
-cd into the venv and clone project in your local machine from GitHub:
-git clone https://github.com/VitaliiKalyta96/BanderoGus
+ `git clone https://github.com/VitaliiKalyta96/BanderoGus`
 
-Access to website about banderogus which published and located on netlify. Link: https://wondrous-cascaron-70dd73.netlify.app/ or you can open the file
-index.html and click him in your browser.
+2. Run file main.py:
+
+ `main.py`
+
+Access to website about banderogus which published and located on netlify.
+
+📂 [File on netlify](https://wondrous-cascaron-70dd73.netlify.app/ ) Link on netlify.
+
+or you can open the file `index.html` .
